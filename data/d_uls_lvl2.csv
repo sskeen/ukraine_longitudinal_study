@@ -1,7 +1,7 @@
-oblast,admin_units,n_events,afct_residential,afct_school
-Kharkiv Oblast,"61, 62, 63, 64",540,264,94
-Donetsk Oblast,"83, 84, 85, 86, 87",529,240,72
-Kherson Oblast,"73, 74, 75",375,147,63
+oblast,admin_units,n_events,rsdn,schl
+Kharkiv Oblast,"61, 62, 63, 64",539,263,93
+Donetsk Oblast,"83, 84, 85, 86, 87",527,239,72
+Kherson Oblast,"73, 74, 75",374,146,63
 Zaporizhzhia Oblast,"69, 70, 71, 72",135,43,16
 Mykolaiv Oblast,"54, 55, 56, 57",115,56,9
 Dnipropetrovsk Oblast,"49, 50, 51, 52, 53",112,61,11
@@ -13,7 +13,7 @@ Luhansk Oblast,"91, 92, 93, 94",70,26,13
 Odesa Oblast,"65, 67, 68",69,23,4
 Chernihiv Oblast,"14, 15, 16, 17",29,15,2
 Rivne Oblast,"33, 34, 35",17,6,0
-Kirovohrad Oblast,"27, 28",14,7,0
+Kirovohrad Oblast,"27, 28",15,7,0
 Lviv Oblast,"79, 80, 81",14,5,1
 Cherkasy Oblast,"18, 19, 20, 21, 22",12,5,0
 Zhytomyr Oblast,"10, 11, 12",10,8,1
