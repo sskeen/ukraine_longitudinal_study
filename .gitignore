@@ -1,7 +1,8 @@
 # macOS
 .DS_Store
 
-# Qual data
+# ULS data
+*.csv
 *.xlsx
 
 # Project temp files
