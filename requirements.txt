@@ -5,6 +5,9 @@
 numpy>=1.24.0
 pandas>=2.0.0
 
+# Environmental variable management
+python-dotenv>=1.1.0
+
 # Geocoding
 geopy>=2.4.0
 

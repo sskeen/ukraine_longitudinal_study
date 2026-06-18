@@ -12,3 +12,6 @@ temp/
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
+
+# .env (private)
+.env
