@@ -10,6 +10,13 @@ python-dotenv>=1.1.0
 
 # Geocoding
 geopy>=2.4.0
+requests>=2.31.0
+
+# Archive extraction
+py7zr>=0.20.0
+
+# Progress bars
+tqdm>=4.65.0
 
 # Visualization
 matplotlib>=3.7.0

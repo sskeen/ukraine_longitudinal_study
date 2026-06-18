@@ -2,8 +2,11 @@
 .DS_Store
 
 # ULS data
+data/
 *.csv
 *.xlsx
+*.7z
+*.json
 
 # Project temp files
 temp/
